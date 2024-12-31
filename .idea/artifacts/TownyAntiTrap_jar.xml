@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TownyAntiTrap:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TownyAntiTrap_jar</output-path>
+    <root id="archive" name="TownyAntiTrap.jar">
+      <element id="module-output" name="TownyAntiTrap" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+# TownyAntiTrap Configuration
+# Designed by StoffeH
+# Restart required to apply config changes.
+
+#Amount of chunks within which players are protected after teleporting into a town.
+protected-chunks: 8
